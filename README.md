@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi I'm Ter!
+
+I like music, camping, food, and spending time with my partner.
